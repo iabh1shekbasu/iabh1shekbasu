@@ -1,4 +1,4 @@
-## Hi there, I'm Abhishek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">🏼👨🏻‍💻 :united_arab_emirates: --> :india:
+## Hi there, I'm Abhishek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">🏼👨🏻‍💻 :united_arab_emirates: <--> :india:
 
 [![Gmail Badge](https://img.shields.io/badge/-ab.19u10448@btech.nitdgp.ac.in-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ab.19u10448@btech.nitdgp.ac.in "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek%20Basu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iabhishekbasu/ "Connect on LinkedIn")
