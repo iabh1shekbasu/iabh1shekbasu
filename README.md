@@ -7,10 +7,10 @@
 ```
 Wear your failure as a badge of honour ~ Sundar Pichai
 ```
-I am a Senior Student at The National Institute of Technology Durgapur, pursuing a Bachelor of Technology in Computer Science and Engineering , who is passionate about Web Development :computer:, Machine Learning :crossed_swords:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am an incoming Computer Vision graduate student at [MBZUAI](https://mbzuai.ac.ae/) with 100% scholarship, previously I pursued my undergraduate degree in Computer Science and Engineering at [The National Institute of Technology Durgapur](https://nitdgp.ac.in/). I am passionate about Computer Vision :computer:, Deep Learning :crossed_swords:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
 - 🌱 I’m currently learning [Tesnorflow 2.0 & PyTorch]()
-- 👨🏽‍💻 I’m currently working on my website :wink:;
+- 👨🏽‍💻 I’m currently working on reviewing my first journal paper :wink:;
 - 👯 I’m looking to collaborate on any Machine Learning/ Computer Vision project which seems interesting or useful
 - 💬 Talk to me about **Books**, **Cubing**, **Basketball** and anything related to **Technology**.
 - 📫 How to reach me: Use any of the [badges](#hi-there-im-Abhishek-) above
