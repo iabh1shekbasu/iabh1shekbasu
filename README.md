@@ -27,7 +27,7 @@ I am a Senior Student at The National Institute of Technology Durgapur, pursuing
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabhishekbasu" width="275" height="275" />
 </a> -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=iabhishekbasu&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=iabh1shekbasu&color=blue)
 
 ## **Languages and Tools:**  
 
