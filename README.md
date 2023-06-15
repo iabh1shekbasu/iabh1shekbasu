@@ -15,7 +15,7 @@ I am an incoming Computer Vision graduate student at [MBZUAI](https://mbzuai.ac.
 - 💬 Talk to me about **Books**, **Cubing**, **Basketball** and anything related to **Technology**.
 - 📫 How to reach me: Use any of the [badges](#hi-there-im-Abhishek-) above
 - 😌 Motto: **The More You Sweat in Practice, the Less You Bleed in Battle**
-- 📝[Resume]()
+- 📝[Academic Curriculum Vitae](https://drive.google.com/file/d/1M9Dl9PmnGU-n8_1RJMfqZSTx6Vugg4xi/view?usp=drive_link)
 - 👾 Fun fact: If I didn't procastinate all my life, you would probably be reading a book about me now or watching a documentary of my life.
 
 
