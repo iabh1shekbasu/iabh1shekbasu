@@ -11,16 +11,16 @@
 ```
 Wear your failure as a badge of honour ~ Sundar Pichai
 ```
-I am an incoming Computer Vision graduate student at [MBZUAI](https://mbzuai.ac.ae/) with 100% scholarship, previously I pursued my undergraduate degree in Computer Science and Engineering at [The National Institute of Technology Durgapur](https://nitdgp.ac.in/). I am passionate about Computer Vision :computer:, Deep Learning :crossed_swords:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am an incoming Computer Vision graduate student at [MBZUAI](https://mbzuai.ac.ae/) with a 100% scholarship, previously I pursued my undergraduate degree in Computer Science and Engineering at the [National Institute of Technology Durgapur](https://nitdgp.ac.in/). I am passionate about Computer Vision :computer:, Deep Learning :crossed_swords:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
 - 🌱 I’m currently learning [Tesnorflow 2.0 & PyTorch]()
-- 👨🏽‍💻 I’m currently working on reviewing my first journal paper :wink:;
+- 👨🏽‍💻 I’m currently working on my math for deep learning :wink:;
 - 👯 I’m looking to collaborate on any Machine Learning/ Computer Vision project which seems interesting or useful
 - 💬 Talk to me about **Books**, **Cubing**, **Basketball** and anything related to **Technology**.
 - 📫 How to reach me: Use any of the [badges](#hi-there-im-Abhishek-) above
 - 😌 Motto: **The More You Sweat in Practice, the Less You Bleed in Battle**
 - 📝[Academic Curriculum Vitae](https://drive.google.com/file/d/1M9Dl9PmnGU-n8_1RJMfqZSTx6Vugg4xi/view?usp=drive_link)
-- 👾 Fun fact: If I didn't procastinate all my life, you would probably be reading a book about me now or watching a documentary of my life.
+- 👾 Fun fact: If I didn't procrastinate all my life, you would probably be reading a book about me now or watching a documentary of my life.
 
 
 ## Some of my Github Public Stats
