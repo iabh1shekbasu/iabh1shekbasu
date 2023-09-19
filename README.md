@@ -11,7 +11,7 @@
 ```
 Wear your failure as a badge of honour ~ Sundar Pichai
 ```
-I am an incoming Computer Vision graduate student at [MBZUAI](https://mbzuai.ac.ae/) with a 100% scholarship, previously I pursued my undergraduate degree in Computer Science and Engineering at the [National Institute of Technology Durgapur](https://nitdgp.ac.in/). I am passionate about Computer Vision :computer:, Deep Learning :crossed_swords:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am a Computer Vision graduate student at [MBZUAI](https://mbzuai.ac.ae/) with a 100% scholarship, previously I pursued my undergraduate degree in Computer Science and Engineering at the [National Institute of Technology Durgapur](https://nitdgp.ac.in/). I am passionate about Computer Vision :computer:, Deep Learning :crossed_swords:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
 - 🌱 I’m currently learning [Tesnorflow 2.0 & PyTorch]()
 - 👨🏽‍💻 I’m currently working on my math for deep learning :wink:;
