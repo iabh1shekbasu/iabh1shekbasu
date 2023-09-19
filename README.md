@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&weight=100&size=50&duration=1500&pause=800&color=F7A338&background=FF68CD00&center=true&width=1500&height=75&lines=Abhishek+Basu;AI+ML+Graduate+Student;Interested+in+Computer+Vision+%26+3D+Vision+)](https://git.io/typing-svg)
 ---
 
-[![Gmail Badge](https://img.shields.io/badge/-ab.19u10448@btech.nitdgp.ac.in-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ab.19u10448@btech.nitdgp.ac.in "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-abhishek.basu@mbzuai.ac.ae -c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abhishek.basu@mbzuai.ac.ae "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek%20Basu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iabhishekbasu/ "Connect on LinkedIn")
 
 <a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/40869152.jpg" align="right" height="200" /></a>
