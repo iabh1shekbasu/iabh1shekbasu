@@ -13,7 +13,7 @@ Wear your failure as a badge of honour ~ Sundar Pichai.
 ```
 I am a Computer Vision graduate student at [MBZUAI](https://mbzuai.ac.ae/) with a 100% scholarship; previously, I pursued my undergraduate degree in Computer Science and Engineering at the [National Institute of Technology Durgapur](https://nitdgp.ac.in/). I am passionate about Computer Vision :computer: Deep Learning :crossed_swords: and open source :octocat:. I love to learn and contribute in any and every possible way.
 
-- 🌱 I'm currently researching about [integrating Knowledge Graphs with LLMs]()
+- 🌱 I'm currently researching about []()
 - 👨🏽‍💻 I'm currently working on  :wink:
 - 👯 I'm looking to collaborate on any Machine Learning/ Computer Vision project which seems interesting or useful
 - 💬 Talk to me about **Books**, **Cubing**, **Basketball** and anything related to **Technology**.
