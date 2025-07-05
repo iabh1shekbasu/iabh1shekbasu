@@ -1,4 +1,4 @@
-## Hi there, I'm Abhishek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">🏼👨🏻‍💻 🇦🇪 <--> :india:
+## Hi there, I'm Abhishek Basu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">🏼👨🏻‍💻 🇦🇪 <--> :india:
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&weight=100&size=50&duration=1500&pause=800&color=F7A338&background=FF68CD00&center=true&width=1500&height=75&lines=Abhishek+Basu;CV+Graduate+Student;Interested+in+Computer+Vision+%26+3D+Vision+)](https://git.io/typing-svg)
@@ -11,7 +11,9 @@
 ```
 Wear your failure as a badge of honour ~ Sundar Pichai.
 ```
-I am a Computer Vision graduate student at [MBZUAI](https://mbzuai.ac.ae/) with a 100% scholarship; previously, I pursued my undergraduate degree in Computer Science and Engineering at the [National Institute of Technology Durgapur](https://nitdgp.ac.in/). I am passionate about Computer Vision :computer: Deep Learning :crossed_swords: and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am a Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), affiliated with the [SPriNT-AI (Security, Privacy and Trustworthiness in Artificial Intelligence) Lab](https://www.sprintai.org/) and the [CERT (Collaboration, Efficiency, Responsibility and Trust) Lab](https://github.com/CERT-Lab), where I am fortunate to be advised by [Prof. Karthik Nandakumar](https://cse.msu.edu/~nandakum/) and co-advised by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). I work at the intersection of **Computer Vision**, **Biometrics**, and **Privacy**, developing models and methods to prevent the misuse of personal data.
+
+I hold a Master’s degree in Computer Vision from [MBZUAI](https://mbzuai.ac.ae/), where I was awarded a 100% scholarship, and a Bachelor's degree in Computer Science and Engineering from the [National Institute of Technology Durgapur](https://nitdgp.ac.in/). I am passionate about Computer Vision :computer:, Deep Learning :crossed_swords:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
 - 🌱 I'm currently researching about []()
 - 👨🏽‍💻 I'm currently working on  :wink:
