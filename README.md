@@ -1,7 +1,7 @@
 ## Hi there, I'm Abhishek Basu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">🏼👨🏻‍💻 🇦🇪 <--> :india:
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&weight=100&size=50&duration=1500&pause=800&color=F7A338&background=FF68CD00&center=true&width=1500&height=75&lines=Abhishek+Basu;CV+Graduate+Student;Interested+in+Computer+Vision+%26+3D+Vision+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&weight=100&size=50&duration=1500&pause=800&color=F7A338&background=FF68CD00&center=true&width=1500&height=75&lines=Abhishek+Basu;Research+Engineer;Interested+in+Biometrics+%26+Privacy+Vision+)](https://git.io/typing-svg)
 ---
 
 [![Gmail Badge](https://img.shields.io/badge/-abhishek.basu@mbzuai.ac.ae-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abhishek.basu@mbzuai.ac.ae "Connect via Email")
