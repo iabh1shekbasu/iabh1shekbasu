@@ -11,7 +11,7 @@
 ```
 Wear your failure as a badge of honour ~ Sundar Pichai.
 ```
-I am a Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), affiliated with the [SPriNT-AI (Security, Privacy and Trustworthiness in Artificial Intelligence) Lab](https://www.sprintai.org/), where I am fortunate to be advised by [Prof. Karthik Nandakumar](https://cse.msu.edu/~nandakum/). My work is based on AI Safety, developing models and methods to prevent the misuse of personal data.
+I am a Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), affiliated with the [SPriNT-AI (Security, Privacy and Trustworthiness in Artificial Intelligence) Lab](https://www.cse.msu.edu/~nandakum/home.html), where I am fortunate to be advised by [Prof. Karthik Nandakumar](https://cse.msu.edu/~nandakum/). My work is based on AI Safety, developing models and methods to prevent the misuse of personal data.
 
 I hold a Master’s degree in Computer Vision from [MBZUAI](https://mbzuai.ac.ae/), where I was awarded a 100% scholarship, and a Bachelor's degree in Computer Science and Engineering from the [National Institute of Technology Durgapur](https://nitdgp.ac.in/). I am passionate about Computer Vision :computer:, Deep Learning :crossed_swords:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
